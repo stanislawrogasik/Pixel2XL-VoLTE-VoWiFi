@@ -14,7 +14,7 @@ It uses:
 
 - Few Magisk modules(because I like to have multiple modules instead of one),
 
-- Windows(tested on Windows 10 - unfortunelly EFS tools doesn't work with Linux),
+- Windows(tested on Windows 10 - unfortunately EFS tools doesn't work with Linux),
 
 - MBN file from another device(e.g. OnePlus 5/Xiaomi Mi6) and one file which enables the uploaded MBN,
 
